@@ -1,7 +1,5 @@
 The folder CAD_model contains the CAD model developed as part of this project.
 
-The report is named: 119262689_119399545_ENPM_662_Final_Project_Report.pdf
-
 Dependencies:
 CoppeliaSim 3.4.2+
 Python 3.8+
